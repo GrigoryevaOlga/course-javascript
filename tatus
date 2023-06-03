@@ -1,0 +1,63 @@
+[33mcommit 38713ea7cbdb6b129804c19c3735d0c022320206[m[33m ([m[1;36mHEAD -> [m[1;32mloft-photo[m[33m)[m
+Author: Olga Grigoryeva <ms.olga.grigoryeva@mail.ru>
+Date:   Sat May 13 14:12:33 2023 +0300
+
+    ДЗ по выпускному проекту#2
+
+[33mcommit 2970bade3c2c28cbeb3ebed01843407c7564011d[m[33m ([m[1;31morigin/loft-photo[m[33m)[m
+Author: Olga Grigoryeva <ms.olga.grigoryeva@mail.ru>
+Date:   Thu May 4 12:59:13 2023 +0300
+
+    ДЗ по выпускному проекту#1
+
+[33mcommit 468798c4aacf295d4e55ac6a37bee2eccba0d073[m
+Author: Sergey Melyukov <smelukov@yandex-team.ru>
+Date:   Mon Apr 17 19:08:13 2023 +0300
+
+    loft photo
+
+[33mcommit 29f4649ecec38fb95be42ce447c1f5aca7840764[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Sergey Melyukov <s.melukov@gmail.com>
+Date:   Mon Feb 27 11:52:47 2023 +0300
+
+    update project
+
+[33mcommit 88dd70ef0a48b92f437096c1c4c82d659c01dd3d[m
+Author: Sergey Melyukov <s.melukov@gmail.com>
+Date:   Tue Jan 10 23:42:59 2023 +0300
+
+    update to webpack 5
+
+[33mcommit 7a18056ecb84e3063355e130805e9b535022c5b6[m
+Merge: b3c2eb7 ce83f6f
+Author: Sergey Melyukov <s.melukov@gmail.com>
+Date:   Thu Jan 28 14:42:42 2021 +0300
+
+    Merge pull request #5 from rtatarinov/fix/webpack-html-loader-config
+    
+    [Webpack] fixed html loader config
+
+[33mcommit ce83f6f52bb55906a47c3ebd29ca2e64a23b1083[m
+Author: rtatarinov <r.a.tatarinov@yandex.ru>
+Date:   Wed Jan 27 22:32:58 2021 +0300
+
+    [Webpack] fixed html loader config
+
+[33mcommit b3c2eb7b6b051d5bf182a27aeb40b02d0c050e71[m
+Author: Sergey Melyukov <s.melukov@gmail.com>
+Date:   Wed Jul 29 11:56:53 2020 +0300
+
+    refactoring
+    support proxy
+
+[33mcommit 23e3406ab313c049ceefee6bd9be3e9294fb0f23[m
+Author: Sergey Melyukov <s.melukov@gmail.com>
+Date:   Mon Jul 20 11:39:30 2020 +0300
+
+    Update README.md
+
+[33mcommit 3daedd01674d5df9c38551c71787275dc349c37d[m
+Author: Sergey Melyukov <s.melukov@gmail.com>
+Date:   Tue Jul 7 12:14:10 2020 +0300
+
+    initial
